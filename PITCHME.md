@@ -1,6 +1,6 @@
 @title[Slide Title]
-#GitPitch
-##Hello World
+# GitPitch
+## Hello World
 
 Hello!
 
@@ -19,6 +19,6 @@ Adiós!
 +++
 
 @title[Another Title]
-#Heading 1
+# Heading 1
 
 $$\sum^{\infty}_{n=1}\sqrt{\frac{n^2}{n!}}$$
